@@ -52,7 +52,7 @@ const BoardHeader = () => {
 
   const Fetch = useCallback(async () => {
     await fetchBoards().then(async (res) => {
-      if (res.status != 200) return toast.error('Reload! Failed to Connect to Server');;
+      if (res.status != 200) return toast.error('Failed to Connect to Server');;
       var data = res?.payload?.data;
 
       if (data.length == 0) return addBoard();
@@ -68,7 +68,7 @@ const BoardHeader = () => {
   const FetchTasks = useCallback(
     async (id) => {
       return await fetchTasks(id).then((res) => {
-        if (res.status != 200) return toast.error('Try Again!');;
+        if (res.status != 200) return toast.error('Failed to Connect to Server');;
         var data = res?.payload?.data;
         console.log(data, currentBoardId);
 
