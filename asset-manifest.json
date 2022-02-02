@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TODO-APP/static/css/main.c61cf043.css",
+    "main.css": "/TODO-APP/static/css/main.d4205bf8.css",
     "main.js": "/TODO-APP/static/js/main.7e031a61.js",
     "static/js/787.b700b8b5.chunk.js": "/TODO-APP/static/js/787.b700b8b5.chunk.js",
     "static/media/logo.svg": "/TODO-APP/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -10,12 +10,12 @@
     "static/media/Tick.svg": "/TODO-APP/static/media/Tick.065dbb0ded49c4ca0a3640058cfb124b.svg",
     "static/media/Add.svg": "/TODO-APP/static/media/Add.c25fbb9baba1ba35b1088e4eac4ee16b.svg",
     "static/media/Tick2.svg": "/TODO-APP/static/media/Tick2.6a318b8dd3700fbfffdbdeb239a7ade9.svg",
-    "main.c61cf043.css.map": "/TODO-APP/static/css/main.c61cf043.css.map",
+    "main.d4205bf8.css.map": "/TODO-APP/static/css/main.d4205bf8.css.map",
     "main.7e031a61.js.map": "/TODO-APP/static/js/main.7e031a61.js.map",
     "787.b700b8b5.chunk.js.map": "/TODO-APP/static/js/787.b700b8b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c61cf043.css",
+    "static/css/main.d4205bf8.css",
     "static/js/main.7e031a61.js"
   ]
 }
