@@ -52,7 +52,7 @@ const BoardHeader = () => {
 
   const Fetch = useCallback(async () => {
     await fetchBoards().then(async (res) => {
-      if (res.status != 200) return toast.error('Try Again!');;
+      if (res.status != 200) return toast.error('Reload! Failed to Connect to Server');;
       var data = res?.payload?.data;
 
       if (data.length == 0) return addBoard();

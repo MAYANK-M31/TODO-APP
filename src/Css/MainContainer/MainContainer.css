@@ -281,6 +281,8 @@ input {
   .TaskView .Container {
     height: 400px !important;
     padding-block: 30px !important;
+    border-radius: 5vw;
+
 
   }
 
