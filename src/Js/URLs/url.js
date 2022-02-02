@@ -1,1 +1,2 @@
-export const DOMAIN = "http://localhost:1337" 
+export const DOMAIN = "https://todoappsails.herokuapp.com/api/task"
+//  "http://localhost:1337" 
